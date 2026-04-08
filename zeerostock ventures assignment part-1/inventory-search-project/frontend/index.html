@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Inventory Search</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Inventory Search</h1>
+
+    <input type="text" id="searchInput" placeholder="Search Product" />
+
+    <select id="category">
+      <option value="">All Categories</option>
+      <option value="Furniture">Furniture</option>
+      <option value="Electronics">Electronics</option>
+      <option value="Stationery">Stationery</option>
+    </select>
+
+    <input type="number" id="minPrice" placeholder="Min Price" />
+    <input type="number" id="maxPrice" placeholder="Max Price" />
+
+    <button onclick="searchInventory()">Search</button>
+
+    <div id="results"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

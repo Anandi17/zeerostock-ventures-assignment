@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "productName": "Office Chair",
+    "category": "Furniture",
+    "price": 120,
+    "supplier": "ABC Traders"
+  },
+  {
+    "id": 2,
+    "productName": "Laptop Stand",
+    "category": "Electronics",
+    "price": 80,
+    "supplier": "Tech World"
+  },
+  {
+    "id": 3,
+    "productName": "Writing Desk",
+    "category": "Furniture",
+    "price": 250,
+    "supplier": "Home Mart"
+  },
+  {
+    "id": 4,
+    "productName": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 40,
+    "supplier": "Gadget Hub"
+  },
+  {
+    "id": 5,
+    "productName": "Notebook Pack",
+    "category": "Stationery",
+    "price": 15,
+    "supplier": "Paper Zone"
+  }
+]
